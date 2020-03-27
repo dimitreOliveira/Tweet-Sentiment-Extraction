@@ -11,7 +11,8 @@
   - [content 1]()
 
 - ### GitHub:
-  - [git repository 1]()
+  - [Huggingface transformers](https://github.com/huggingface/transformers)
+  - [Hggingface tokenizers](https://github.com/huggingface/tokenizers/tree/master/bindings/python)
 
 - ### Papers:
   - [paper 1]()
