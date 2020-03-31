@@ -1,4 +1,4 @@
-# {Competition Name} - Planning
+# Tweet Sentiment Extraction - Planning
  
 ## Working cycle:
 1. Read competition information and relevant content to feel comfortable with the problem. Create a hypothesis based on the problem.
