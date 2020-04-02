@@ -28,9 +28,11 @@
  
 - ### Insights:
   - #### Positive Insights
-    - The metric is calculated on lowercased text, so lowercasing all texts as preprocess is viable without drawbacks.
+    - The metric is calculated on lowercased text, so lowercasing all texts as preprocess is viable without drawbacks
   
   - #### Negative Insights
-    - Some of the labels contain only a fraction of the original text words like the bellow, thisway predict on character level may be better.
+    - Some of the labels contain only a fraction of the original text words like the bellow, thisway predict on character level may be better
       - `text`: `i'm actually starting to quite like lily allen and her music, to be honest.`
       - `selected_text`: `o quite like lily allen and her music, to be honest.`
+    - Both `text` and `selected_text` can contain HTML tags
+    - Train set have null label
