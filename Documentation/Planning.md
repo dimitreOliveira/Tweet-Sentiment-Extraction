@@ -15,7 +15,7 @@
   - [Hggingface tokenizers](https://github.com/huggingface/tokenizers/tree/master/bindings/python)
 
 - ### Papers:
-  - [paper 1]()
+  - [Frustratingly Easy Natural Question Answering](https://arxiv.org/pdf/1909.05286.pdf)
 
 - ### Videos:
   - [video 1]()
