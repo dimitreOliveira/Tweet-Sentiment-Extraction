@@ -24,7 +24,7 @@
   - [kernel 1]()
 
 - ### Discussions:
-  - [discussion 1]()
+  - [Insights on achieving 0.9383 without translating data](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/140254)
  
 - ### Insights:
   - #### Positive Insights
