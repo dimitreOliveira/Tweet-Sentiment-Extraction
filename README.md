@@ -1,4 +1,4 @@
-![](https://github.com/dimitreOliveira/competitionTemplate/blob/master/Assets/banner.png)
+![](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/blob/master/Assets/banner.png)
 
 ## About the repository
 {Competition abouts}
