@@ -7,7 +7,6 @@
 
 ### What you will find
 - Documentation [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Documentation)
-  - Project working cycle and effort, relevant content and insights [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/blob/master/Documentation/Planning.md)
 - Models [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Model%20backlog)
 
 ### Tweet Sentiment Extraction
