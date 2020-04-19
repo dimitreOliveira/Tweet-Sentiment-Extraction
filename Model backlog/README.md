@@ -1,15 +1,15 @@
 ## Model backlog (list of the developed model and metrics)
 - **Train** and **validation** are the splits using the train data from the competition.
 - The competition metric is **Jaccard score**.
-- **Pb Leaderboard** is the Public Leaderboard score.
-- **Pv Leaderboard** is the Private Leaderboard score.
+- **Public LB** is the Public Leaderboard score.
+- **Private LB** is the Private Leaderboard score.
 
 ---
 
 ## Models
 
-|Model|Train|Validation|Pb Leaderboard|Pv Leaderboard|
-|-----|-----|----------|--------------|--------------|
+|Model|Train|Validation|Public LB|Private LB|
+|-----|-----|----------|---------|----------|
 |1-Tweet-Train-DistilBERT|0.725|0.616| ??? | ??? |
 |2-Tweet-Train-DistilBERT lower|0.761|0.638| ??? | ??? |
 |3-Tweet-Train-DistilBERT BCE|0.703|0.635| ??? | ??? |
