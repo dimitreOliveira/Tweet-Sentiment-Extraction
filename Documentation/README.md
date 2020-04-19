@@ -8,7 +8,10 @@
 
 ## 1. Literature review (read some kernels and relevant content related to the competition).
 - ### Relevant content:
-  - [content 1]()
+  - [Ensemble BERT with Data Augmentation and Linguistic Knowledge on SQuAD 2.0](https://web.stanford.edu/class/cs224n/posters/15845024.pdf)
+  - [Question Answering with a Fine-Tuned BERT](http://mccormickml.com/2020/03/10/question-answering-with-a-fine-tuned-BERT/)
+  - [BERT for Question Answering on SQuAD 2.0](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/default/15848021.pdf)
+  - [A Bert based summarization model “BertSum”](https://medium.com/lsc-psd/a-bert-based-summarization-model-bertsum-88b1fc1b3177)
 
 - ### GitHub:
   - [Huggingface transformers](https://github.com/huggingface/transformers)
@@ -24,7 +27,8 @@
   - [kernel 1]()
 
 - ### Discussions:
-  - [Insights on achieving 0.9383 without translating data](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/140254)
+  - [Ideas Which Should Improve Scores Hopefully](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/142011)
+  - [TensorFlow roBERTa Explained](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/143281)
  
 - ### Insights:
   - #### Positive Insights
