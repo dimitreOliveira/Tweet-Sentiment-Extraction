@@ -55,3 +55,20 @@
 | 43-Tweet-Train-3Fold DistilBERT Conv1D seq len 96 | 0.777 | 0.653 | 0.679 | ??? |
 | 44-Tweet-Train-3Fold DistilBERT Conv1D linear | 0.455 | 0.442 | 0.490 | ??? |
 | 45-Tweet-Train-3Fold-distilRoBERTa Conv1D head | 0.752 | 0.660 | 0.672 | ??? |
+| 46-Tweet-Train-3Fold-roBERTa base | 0.72351 | 0.664586 | 0.685 | ??? |
+| 47-Tweet-Train-3Fold-roBERTa base public | 0.689161 | 0.65249 | 0.671 | ??? |
+| 48-Tweet-Train-3Fold-roBERTa base pad fix | 0.406972 | 0.391479 | 0.621 | ??? |
+| 49-Tweet-Train-3Fold-roBERTa base tf_dataset | 0.645902 | 0.5982 | 0.679 | ??? |
+| 50-Tweet-Train-3Fold-roBERTa base dropout | 0.608259 | 0.556035 | 0.674 | ??? |
+| 51-Tweet-Train-3Fold-roBERTa base dropout np | 0.722102 | 0.66547 | 0.681 | ??? |
+| 52-Tweet-Train-3Fold-roBERTa base pb | 0.73053 | 0.700871 | 0.701 | ??? |
+| 53-Tweet-Train-3Fold-roBERTa base pb2 | 0.737609 | 0.701711 | 0.697 | ??? |
+| 54-Tweet-Train-3Fold-roBERTa base BCE | 0.745092 | 0.700277 | 0.708 | ??? |
+| 55-Tweet-Train-3Fold-roBERTa base SparseCat | 0.73438 | 0.704676 | 0.701 | ??? |
+| 56-Tweet-Train-1Fold-roBERTa base Lbl smoothing | 0.743106 | 0.699319 | 0.694 | ??? |
+| 57-Tweet-Train-3Fold-roBERTa base Jaccard task | 0.750823 | 0.698045 | 0.702 | ??? |
+| 58-Tweet-Train-3Fold-roBERTa base pb3 | 0.74346 | 0.693244 | 0.695 | ??? |
+| 59-Tweet-Train-1Fold-roBERTa base RAdam | 0.740513 | 0.708764 | 0.703 | ??? |
+| 60-Tweet-Train-1Fold-roBERTa base RAdam2 | 0.727599 | 0.702031 | 0.697 | ??? |
+| 61-Tweet-Train-1Fold-roBERTa base AdamW | 0.734198 | 0.701939 | 0.702 | ??? |
+| 62-Tweet-Train-1Fold-roBERTa base LR schedule | 0.727328 | 0.695301 | 0.695 | ??? |
