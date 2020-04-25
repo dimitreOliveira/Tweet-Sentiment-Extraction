@@ -8,6 +8,8 @@
 
 ## 1. Literature review (read some kernels and relevant content related to the competition).
 - ### Relevant content:
+  - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+  - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
   - [Ensemble BERT with Data Augmentation and Linguistic Knowledge on SQuAD 2.0](https://web.stanford.edu/class/cs224n/posters/15845024.pdf)
   - [Question Answering with a Fine-Tuned BERT](http://mccormickml.com/2020/03/10/question-answering-with-a-fine-tuned-BERT/)
   - [BERT for Question Answering on SQuAD 2.0](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/default/15848021.pdf)
@@ -21,7 +23,9 @@
   - [Frustratingly Easy Natural Question Answering](https://arxiv.org/pdf/1909.05286.pdf)
 
 - ### Videos:
-  - [video 1]()
+  - [BERT for Kaggle Competitions | Yuanhae Wu | Kaggle Days](https://www.youtube.com/watch?v=jS79Y8I0DF4&t=9s)
+  - [Deep Learning Formulas for NLP Applications | Chenglong Chen | Kaggle](https://www.youtube.com/watch?v=SmsAI0kLJFc&t=0s)
+  - [Solving NLP Problems with BERT | Yuanhao Wu | Kaggle](https://www.youtube.com/watch?v=rQQAIJIf60s)
 
 - ### Kernels:
   - [kernel 1]()
