@@ -33,6 +33,7 @@
 - ### Discussions:
   - [Ideas Which Should Improve Scores Hopefully](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/142011)
   - [TensorFlow roBERTa Explained](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/143281)
+  - [Original dataset](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/145363)
  
 - ### Insights:
   - #### Positive Insights
