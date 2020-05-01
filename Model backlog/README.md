@@ -72,3 +72,24 @@
 | 60-Tweet-Train-1Fold-roBERTa base RAdam2 | 0.727599 | 0.702031 | 0.697 | ??? |
 | 61-Tweet-Train-1Fold-roBERTa base AdamW | 0.734198 | 0.701939 | 0.702 | ??? |
 | 62-Tweet-Train-1Fold-roBERTa base LR schedule | 0.727328 | 0.695301 | 0.695 | ??? |
+| 63-Tweet-Train-3Fold-roBERTa base RAdam | 0.734822 | 0.704573 | 0.705 | ??? |
+| 64-Tweet-Train-3Fold-roBERTa base AdamW | 0.742949 | 0.698587 | 0.704 | ??? |
+| 65-Tweet-Train-1Fold-roBERTa base Two heads | 0.738196 | 0.694098 | 0.692 | ??? |
+| 66-Tweet-Train-1Fold-roBERTa base Avg last4 | 0.740247 | 0.700285 | 0.702 | ??? |
+| 67-Tweet-Train-1Fold-roBERTa base dense | 0.746128 | 0.696764 | 0.695 | ??? |
+| 68-Tweet-Train-1Fold-roBERTa base subtract | 0.744659 | 0.713293 | 0.708 | ??? |
+| 69-Tweet-Train-1Fold-roBERTa base subtract text | 0.657457 | 0.608559 | 0.618 | ??? |
+| 70-Tweet-Train-1Fold-roBERTa base pred sentiment | 0.668898 | 0.628801 | 0.634 | ??? |
+| 71-Tweet-Train-5Fold-roBERTa base subtract | 0.732519 | 0.702948 | 0.703 | ??? |
+| 72-Tweet-Train-5Fold-roBERTa base subtract dense | 0.739804 | 0.706634 | 0.706 | ??? |
+| 73-Tweet-Train-1Fold-roBERTa base pred jaccard | 0.690943 | 0.621937 | 0.627 | ??? |
+| 74-Tweet-Train-1Fold-roBERTa base pred sentiment2 | 0.6948 | 0.623752 | 0.629 | ??? |
+| 75-Tweet-Train-5Fold-roBERTa base subtract AdamW | 0.736428 | 0.698001 | 0.705 | ??? |
+| 76-Tweet-Train-3Fold-roBERTa base RAdam CNN BCE | 0.732718 | 0.707449 | 0.705 | ??? |
+| 77-Tweet-Train-3Fold-roBERTa base RAdam CNN CCE | 0.751051 | 0.706018 | 0.708 | ??? |
+| 78-Tweet-Train-3Fold-roBERTa base RAdam CNN Schedu | 0.737130 | 0.708520 | 0.704 | ??? |
+| 79-Tweet-Train-3Fold-roBERTa base LRScheduler Warm | 0.741571 | 0.704275 | 0.705 | ??? |
+| 80-Tweet-Train-3Fold-roBERTa base LRScheduler | 0.746869 | 0.704726 | 0.708 | ??? |
+| 81-Tweet-Train-3Fold-roBERTa base Lbl smoothing 01 | 0.749219 | 0.707017 | 0.709 | ??? |
+| 82-Tweet-Train-3Fold-roBERTa base Lbl smoothing 02 | 0.753057 | 0.708108 | 0.712 | ??? |
+| 83-Tweet-Train-3Fold-roBERTa base pred sentiment | 0.744714 | 0.706536 | 0.710 | ??? |
