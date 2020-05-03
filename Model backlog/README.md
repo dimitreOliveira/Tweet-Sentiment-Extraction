@@ -93,3 +93,13 @@
 | 81-Tweet-Train-3Fold-roBERTa base Lbl smoothing 01 | 0.749219 | 0.707017 | 0.709 | ??? |
 | 82-Tweet-Train-3Fold-roBERTa base Lbl smoothing 02 | 0.753057 | 0.708108 | 0.712 | ??? |
 | 83-Tweet-Train-3Fold-roBERTa base pred sentiment | 0.744714 | 0.706536 | 0.710 | ??? |
+| 84-Tweet-Train-3Fold-roBERTa base pred sent jac | 0.740921 | 0.702955 | 0.705 | ??? |
+| 85-Tweet-Train-3Fold-roBERTa base Lbl smooth2 sent | 0.752989 | 0.706785 | 0.708 | ??? |
+| 86-Tweet-Train-3Fold-roBERTa base exp dropout | 0.756994 | 0.709613 | 0.709 | ??? |
+| 87-Tweet-Train-3Fold-roBERTa base smoothing 02 CNN | 0.752616 | 0.708876 | 0.710 | ??? |
+| 88-Tweet-Train-3Fold-roBERTa base smoothing02 CNN2 | 0.756766 | 0.706790 | 0.707 | ??? |
+| 89-Tweet-Train-3Fold-roBERTa base subtract | 0.742508 | 0.708787 | 0.709 | ??? |
+| 90-Tweet-Train-3Fold-roBERTa base average | 0.748901 | 0.709099 | 0.711 | ??? |
+| 91-Tweet-Train-5Fold-roBERTa base Lbl smooth02 | 0.746417 | 0.705245 | 0.714 | ??? |
+| 92-Tweet-Train-5Fold-roBERTa base pred sentiment | 0.747240 | 0.705034 | 0.707 | ??? |
+| 93-Tweet-Train-3Fold-roBERTa base custom loss | 0.749060 | 0.709306 | 0.709 | ??? |
