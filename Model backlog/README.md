@@ -103,3 +103,13 @@
 | 91-Tweet-Train-5Fold-roBERTa base Lbl smooth02 | 0.746417 | 0.705245 | 0.714 | ??? |
 | 92-Tweet-Train-5Fold-roBERTa base pred sentiment | 0.747240 | 0.705034 | 0.707 | ??? |
 | 93-Tweet-Train-3Fold-roBERTa base custom loss | 0.749060 | 0.709306 | 0.709 | ??? |
+| 94-Tweet-Train-3Fold-roBERTa base CCE BCE output | 0.737505 | 0.703423 | 0.702 | ??? |
+| 95-Tweet-Train-3Fold-roBERTa base custom loss1 | 0.754466 | 0.708478 | 0.707 | ??? |
+| 96-Tweet-Train-3Fold-roBERTa base custom loss025 | 0.737188 | 0.702793 | 0.707 | ??? |
+| 97-Tweet-Train-3Fold-roBERTa base cust loss smoo02 | 0.736578 | 0.702851 | 0.706 | ??? |
+| 98-Tweet-Train-5Fold-roBERTa base custom loss | 0.742584 | 0.704128 | 0.710 | ??? |
+| 99-Tweet-Train-5Fold-roBERTa base Lbl smth02 AVG4 | 0.751298 | 0.708171 | 0.713 | ??? |
+| 100-Tweet-Train-5Fold-roBERTa base Lbl smth02 sigm | 0.744290 | 0.707073 | 0.709 | ??? |
+| 101-Tweet-Train-5Fold-roBERTa base smth02 BCE sigm | 0.743304 | 0.708947 | 0.707 | ??? |
+| 102-Tweet-Train-5Fold-roBERTa base average | 0.748338 | 0.708052 | 0.711 | ??? |
+| 103-Tweet-Train-5Fold-roBERTa base smoothing02 CNN | 0.742685 | 0.706157 | 0.710 | ??? |
