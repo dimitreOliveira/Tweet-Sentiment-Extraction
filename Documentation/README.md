@@ -48,14 +48,14 @@
 
 - ### Experiments overview:
   - #### Positive experiments
-    - Output head (Conv(1,1) -> Flatten -> Activation)
-    - Output head (Dense(1) -> Flatten -> Activation)
+    - Output head `Conv(1,1) -> Flatten -> Activation`
+    - Output head `Dense(1) -> Flatten -> Activation`
     - Epoch LR scheduler (cosine and exponential)
     - Label smoothing CCE (0.1 and 0.2)
   
   - #### Neutral experiments
     - Output layers with BCE loss (exp. 54)
-    - Predict Jaccard score between "text" and "selected_text" (exp. 57)
+    - Predict Jaccard score between `text` and `selected_text` (exp. 57)
     - RAdam optimizer (exp. 59)
     - AdamW (needs fine-tunning) (exp. 61)
     - Average last 4 layers (exp. 66, 99)
