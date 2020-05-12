@@ -113,3 +113,21 @@
 | 101-Tweet-Train-5Fold-roBERTa base smth02 BCE sigm | 0.743304 | 0.708947 | 0.707 | ??? |
 | 102-Tweet-Train-5Fold-roBERTa base average | 0.748338 | 0.708052 | 0.711 | ??? |
 | 103-Tweet-Train-5Fold-roBERTa base smoothing02 CNN | 0.742685 | 0.706157 | 0.710 | ??? |
+| 104-Tweet-Train-2Fold-roBERTa large Lbl smooth02 | ??? | ??? | 0.690 | ??? |
+| 105-Tweet-Train-3Fold-roBERTa base combine 4layers | 0.743229 | 0.707287 | 0.708 | ??? |
+| 106-Tweet-Train-3Fold-roBERTa base single BN layer | 0.748189 | 0.705973 | 0.710 | ??? |
+| 107-Tweet-Train-5Fold-roBERTa base hidden11 | 0.759228 | 0.707189	| 0.713 | ??? |
+| 108-Tweet-Train-5Fold-roBERTa base hidden10 | 0.753675 | 0.708053 | 0.712 | ??? |
+| 109-Tweet-Train-5Fold-roBERTa base hidden09 | 0.755624 | 0.707887	| 0.710 | ??? |
+| 110-Tweet-Train-5Fold-roBERTa base config drop | 0.730080 | 0.706287 | 0.703 | ??? |
+| 111-Tweet-Train-5Fold-roBERTa base 4epochs exp | 0.758400 | 0.707899 | 0.713 | ??? |
+| 112-Tweet-Train-5Fold-roBERTa base 3epochs exp | 0.747573 | 0.707170 | 0.709 | ??? |
+| 113-Tweet-Train-5Fold-roBERTa base 4epochs cos | 0.775953 | 0.707041 | 0.714 | ??? |
+| 114-Tweet-Train-5Fold-roBERTa base 3epochs cos | 0.749963	| 0.706625 | 0.710 | ??? |
+| 115-Tweet-Train-3Fold-roBERTa base tf_dataset | 0.746860 | 0.705446 | 0.711 | ??? |
+| 116-Tweet-Train-5Fold-roBERTa base optimized loop | 0.740988 | 0.701456 | 0.706 | ??? |
+| 117-Tweet-Train-1Fold-distilroBERTa base double decent cosine decay | 0.950197 | 0.686683 | 000 | ??? |
+| 118-Tweet-Train-1Fold-distilroBERTa base double decent restart cosine decay | 0.950193 | 0.682601	| 000 | ??? |
+| 119-Tweet-Train-5Fold-roBERTa base no dropout | 0.744903 | 0.702522 | 0.711 | ??? |
+| 120-Tweet-Train-1Fold-distilroBERTa base double decent bs_128 | 0.950215 | 0.678692	| 000 | ??? |
+| 121-Tweet-Train-1Fold-distilroBERTa base double decent lbl smooth 01 | 0.950181 | 0.675745 | 000 | ??? |
