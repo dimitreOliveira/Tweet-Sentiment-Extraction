@@ -45,3 +45,25 @@
       - `selected_text`: `o quite like lily allen and her music, to be honest.`
     - Both `text` and `selected_text` can contain HTML tags
     - Train set have null label
+
+- ### Experiments overview:
+  - #### Positive experiments
+    - Output head (Conv(1,1) -> Flatten -> Activation)
+    - Output head (Dense(1) -> Flatten -> Activation)
+    - Epoch LR scheduler (cosine and exponential)
+    - Label smoothing CCE (0.1 and 0.2)
+  
+  - #### Neutral experiments
+    - Output layers with BCE loss (exp. 54)
+    - Predict Jaccard score between "text" and "selected_text" (exp. 57)
+    - RAdam optimizer (exp. 59)
+    - AdamW (needs fine-tunning) (exp. 61)
+    - Average last 4 layers (exp. 66, 99)
+    - Subtract flatten layer (before activation) of the other output flatten layer (exp. 68)
+    - Predict the sentiment (exp. 83)
+    - Average flatten layer (before activation) with the other output flatten layer (exp. 90)
+    - Use custom loss to punish wrong predictions (exp. 93)
+    - Use the 11th layer (exp. 107)
+    
+    
+  - #### Negative experiments
