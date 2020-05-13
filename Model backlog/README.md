@@ -131,12 +131,12 @@
 | 119-Tweet-Train-5Fold-roBERTa base no dropout | 0.744903 | 0.702522 | 0.711 | ??? |
 | 120-Tweet-Train-1Fold-distilroBERTa base double decent bs_128 | 0.950215 | 0.678692	| 000 | ??? |
 | 121-Tweet-Train-1Fold-distilroBERTa base double decent lbl smooth 01 | 0.950181 | 0.675745 | 000 | ??? |
-| 122-Tweet-Train-5Fold-roBERTa base AdamW TF | 0.745664 | 0.703401 | 000 | ??? |
-| 123-Tweet-Train-5Fold-roBERTa base AdamW HF | 0.748513 | 0.701229 | 000 | ??? |
-| aaaaaaaa | 000 | 000 | 000 | ??? |
-| aaaaaaaa | 000 | 000 | 000 | ??? |
-| 126-Tweet-Train-5Fold-roBERTa base poisson dist05 | 0.741765 | 0.704092 | 000 | ??? |
-| 127-Tweet-Train-3Fold-roBERTa base poisson dist02 | 0.740248 | 0.705404 | 000 | ??? |
+| 122-Tweet-Train-5Fold-roBERTa base AdamW TF | 0.745664 | 0.703401 | 0.707 | ??? |
+| 123-Tweet-Train-5Fold-roBERTa base AdamW HF | 0.748513 | 0.701229 | 0.711 | ??? |
+| 124 | 000 | 000 | 000 | ??? |
+| 125 | 000 | 000 | 000 | ??? |
+| 126-Tweet-Train-5Fold-roBERTa base poisson dist05 | 0.741765 | 0.704092 | 0.707 | ??? |
+| 127-Tweet-Train-3Fold-roBERTa base poisson dist02 | 0.740248 | 0.705404 | 0.707 | ??? |
 | 128-Tweet-Train-5Fold-roBERTa base balanced | 0.704530 | 0.670277 | 0.709 | ??? |
 | 129-Tweet-Train-5Fold-roBERTa base aux mask | 0.746811 | 0.705188 | 0.712 | ??? |
 | 130-Tweet-Train-5Fold-roBERTa base aux jaccard | 0.738686 | 0.703425 | 0.707 | ??? |
