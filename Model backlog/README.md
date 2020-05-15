@@ -133,8 +133,8 @@
 | 121-Tweet-Train-1Fold-distilroBERTa base double decent lbl smooth 01 | 0.950181 | 0.675745 | 000 | ??? |
 | 122-Tweet-Train-5Fold-roBERTa base AdamW TF | 0.745664 | 0.703401 | 0.707 | ??? |
 | 123-Tweet-Train-5Fold-roBERTa base AdamW HF | 0.748513 | 0.701229 | 0.711 | ??? |
-| 124 | 000 | 000 | 000 | ??? |
-| 125 | 000 | 000 | 000 | ??? |
+| 124-Tweet-Train-5Fold-roBERTa base bs_64 | 0.738116 | 0.704675 | 0.708 | ??? |
+| 125-Tweet-Train-5Fold-roBERTa base bs_8 | 0.738601 | 0.693649 | 0.706 | ??? |
 | 126-Tweet-Train-5Fold-roBERTa base poisson dist05 | 0.741765 | 0.704092 | 0.707 | ??? |
 | 127-Tweet-Train-3Fold-roBERTa base poisson dist02 | 0.740248 | 0.705404 | 0.707 | ??? |
 | 128-Tweet-Train-5Fold-roBERTa base balanced | 0.704530 | 0.670277 | 0.709 | ??? |
@@ -142,3 +142,14 @@
 | 130-Tweet-Train-5Fold-roBERTa base aux jaccard | 0.738686 | 0.703425 | 0.707 | ??? |
 | 131-Tweet-Train-5Fold-roBERTa base aux word count | 0.737214 | 0.703725 | 0.705 | ??? |
 | 132-Tweet-Train-5Fold-roBERTa base aux sentiment | 0.742824 | 0.705239 | 0.710 | ??? |
+| 133-Tweet-Train-5Fold-roBERTa base focal loss | 0.727833 | 0.699488 | 0.706 | ??? |
+| 134-Tweet-Train-3Fold-roBERTa base lr1e5 | 0.682733 | 0.665053 | 0.699 | ??? |
+| 135-Tweet-Train-3Fold-roBERTa base lr1e4 | 0.711237 | 0.662831 | 0.702 | ??? |
+| 136-Tweet-Train-5Fold-roBERTa base SGD | 0.543266 | 0.527700 | 0.696 | ??? |
+| 137-Tweet-Train-5Fold-roBERTa base Adam | 0.747361 | 0.702654 | 0.706 | ??? |
+| 138-Tweet-Train-5Fold-roBERTa base Conv | 0.743691 | 0.703910 | 0.708 | ??? |
+| 139-Tweet-Train-3Fold-roBERTa base step exponential | 0.741126 | 0.705451 | 000 | ??? |
+| 140-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads | 0.739654 | 0.702837 | 000 | ??? |
+| 141-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads2 | 0.742636 | 0.702812 | 000 | ??? |
+| 142-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads | 0.737619 | 0.703859 | 000 | ??? |
+| 143-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads2 | 0.741004 | 0.707042 | 000 | ??? |
