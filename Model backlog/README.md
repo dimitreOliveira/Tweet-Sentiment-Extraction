@@ -148,8 +148,18 @@
 | 136-Tweet-Train-5Fold-roBERTa base SGD | 0.543266 | 0.527700 | 0.696 | ??? |
 | 137-Tweet-Train-5Fold-roBERTa base Adam | 0.747361 | 0.702654 | 0.706 | ??? |
 | 138-Tweet-Train-5Fold-roBERTa base Conv | 0.743691 | 0.703910 | 0.708 | ??? |
-| 139-Tweet-Train-3Fold-roBERTa base step exponential | 0.741126 | 0.705451 | 000 | ??? |
-| 140-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads | 0.739654 | 0.702837 | 000 | ??? |
-| 141-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads2 | 0.742636 | 0.702812 | 000 | ??? |
+| 139-Tweet-Train-3Fold-roBERTa base step exponential | 0.741126 | 0.705451 | 0.709 | ??? |
+| 140-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads | 0.739654 | 0.702837 | 0.710 | ??? |
+| 141-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads2 | 0.742636 | 0.702812 | 0.710 | ??? |
 | 142-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads | 0.737619 | 0.703859 | 000 | ??? |
 | 143-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads2 | 0.741004 | 0.707042 | 000 | ??? |
+| 144-Tweet-Train-3Fold-roBERTa base sentiment head | 0.727972 | 0.694650 | 000 | ??? |
+| 145-Tweet-Train-3Fold-roBERTa base sentiment head2 | 0.737839 | 0.708187 | 000 | ??? |
+| 146 | 000 | 000 | 000 | ??? |
+| 147 | 000 | 000 | 000 | ??? |
+| 148 | 000 | 000 | 000 | ??? |
+| 149 | 000 | 000 | 000 | ??? |
+| 150-Tweet-Train-5Fold-roBERTa base smooth02 optmiz | 0.743141 | 0.705264 | 0.710 | ??? |
+| 151-Tweet-Train-5Fold-roBERTa base smooth02 regula | 0.743971 | 0.703925 | 0.709 | ??? |
+| 152-Tweet-Train-5Fold-roBERTa base MAX 4 layers | 0.728650 | 0.703601 | 000 | ??? |
+| 153-Tweet-Train-5Fold-roBERTa base RMSprop | 0.739308 | 0.704772 | 000 | ??? |
