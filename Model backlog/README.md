@@ -151,15 +151,19 @@
 | 139-Tweet-Train-3Fold-roBERTa base step exponential | 0.741126 | 0.705451 | 0.709 | ??? |
 | 140-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads | 0.739654 | 0.702837 | 0.710 | ??? |
 | 141-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads2 | 0.742636 | 0.702812 | 0.710 | ??? |
-| 142-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads | 0.737619 | 0.703859 | 000 | ??? |
-| 143-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads2 | 0.741004 | 0.707042 | 000 | ??? |
+| 142-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads | 0.737619 | 0.703859 | 0.708 | ??? |
+| 143-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads2 | 0.741004 | 0.707042 | 0.708 | ??? |
 | 144-Tweet-Train-3Fold-roBERTa base sentiment head | 0.727972 | 0.694650 | 000 | ??? |
-| 145-Tweet-Train-3Fold-roBERTa base sentiment head2 | 0.737839 | 0.708187 | 000 | ??? |
-| 146 | 000 | 000 | 000 | ??? |
-| 147 | 000 | 000 | 000 | ??? |
-| 148 | 000 | 000 | 000 | ??? |
-| 149 | 000 | 000 | 000 | ??? |
+| 145-Tweet-Train-3Fold-roBERTa base sentiment head2 | 0.737839 | 0.708187 | 0.705 | ??? |
+| 146-Tweet-Train-1Fold-roBERTa base subtract | 0.741861 | 0.708988 | 0.704 | ??? |
+| 147-Tweet-Train-5Fold-roBERTa base Subtract RAdam | 0.726594 | 0.700326 | 0.706 | ??? |
+| 148-Tweet-Train-5Fold-roBERTa base Subtract | 0.731303 | 0.702731 | 0.709 | ??? |
+| 149-Tweet-Train-5Fold-roBERTa base Subtract smooth | 0.737801 | 0.703789 | 000 | ??? |
 | 150-Tweet-Train-5Fold-roBERTa base smooth02 optmiz | 0.743141 | 0.705264 | 0.710 | ??? |
 | 151-Tweet-Train-5Fold-roBERTa base smooth02 regula | 0.743971 | 0.703925 | 0.709 | ??? |
 | 152-Tweet-Train-5Fold-roBERTa base MAX 4 layers | 0.728650 | 0.703601 | 000 | ??? |
 | 153-Tweet-Train-5Fold-roBERTa base RMSprop | 0.739308 | 0.704772 | 000 | ??? |
+| 154-Tweet-Train-3Fold-roBERTa base predict mask | 0.420923 | 0.196249 | 000 | ??? |
+| 155-Tweet-Train-3Fold-roBERTa base use balanced sequential | 0.760306 | 0.728728 | 0.708 | ??? |
+| 156-Tweet-Train-3Fold-roBERTa base use balanced sequential2 | 0.778746 | 0.706882 | 0.706 | ??? |
+| 157-Tweet-Train-3Fold-roBERTa base use balanced sequential3 | 0.786100 | 0.703417 | 0.709 | ??? |
