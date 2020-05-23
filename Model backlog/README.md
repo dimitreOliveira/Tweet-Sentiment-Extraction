@@ -149,7 +149,7 @@
 | 137-Tweet-Train-5Fold-roBERTa base Adam | 0.747361 | 0.702654 | 0.706 | ??? |
 | 138-Tweet-Train-5Fold-roBERTa base Conv | 0.743691 | 0.703910 | 0.708 | ??? |
 | 139-Tweet-Train-3Fold-roBERTa base step exponential | 0.741126 | 0.705451 | 0.709 | ??? |
-| 140-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads | 0.739654 | 0.702837 | 0.710 | ??? |
+| 140-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads | 0.739654 | 0.702837 | 0.711* | ??? |
 | 141-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads2 | 0.742636 | 0.702812 | 0.710 | ??? |
 | 142-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads | 0.737619 | 0.703859 | 0.708 | ??? |
 | 143-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads2 | 0.741004 | 0.707042 | 0.708 | ??? |
@@ -167,3 +167,21 @@
 | 155-Tweet-Train-3Fold-roBERTa base use balanced sequential | 0.760306 | 0.728728 | 0.708 | ??? |
 | 156-Tweet-Train-3Fold-roBERTa base use balanced sequential2 | 0.778746 | 0.706882 | 0.706 | ??? |
 | 157-Tweet-Train-3Fold-roBERTa base use balanced sequential3 | 0.786100 | 0.703417 | 0.709 | ??? |
+| 158-Tweet-Train-5Fold-roBERTa base 64 | 0.768491 | 0.707071 | 0.712 | ??? |
+| 159-Tweet-Train-5Fold-roBERTa base 108 | 0.738304 | 0.699947 | 0.710 | ??? |
+| 160-Tweet-Train-5Fold-roBERTa base 113 exp1 | 0.739509 | 0.700806 | 0.714 | ??? |
+| 161-Tweet-Train-5Fold-roBERTa base 113 exp2 | 0.742949 | 0.702880 | 0.712 | ??? |
+| 162-Tweet-Train-5Fold-roBERTa base 113 exp3 | 0.743299 | 0.704003 | 0.712 | ??? |
+| 163-Tweet-Train-10Fold-roBERTa base 91 | 0.733822 | 0.705542 | 0.708 | ??? |
+| 164-Tweet-Train-5Fold-roBERTa base 91 exp1 | 0.739160 | 0.703982 | 0.710 | ??? |
+| 165-Tweet-Train-5Fold-roBERTa base 91 exp2 | 0.749831 | 0.704440 | 0.712 | ??? |
+| 166-Tweet-Train-5Fold-roBERTa base 91 exp3 | 0.740047 | 0.705059 | 0.706 | ??? |
+| 167-Tweet-Train-5Fold-roBERTa balanced finetune | 0.725405 | 0.702960 | 0.705 | ??? |
+| 168-Tweet-Train-5Fold-roBERTa balanced finetune2 | 0.745230 | 0.707179 | 0.712 | ??? |
+| 169-Tweet-Train-5Fold-roBERTa balanced pretrain | 0.742935 | 0.706787 | 0.711 | ??? |
+| 170-Tweet-Train-5Fold-roBERTa base no QA sentiment head | 0.745585 | 0.689484 | 000 | ??? |
+| 171-Tweet-Train-5Fold-roBERTa base no QA sentiment head step | 0.732168 | 0.691242 | 0.695 | ??? |
+| 172 | 000 | 000 | 000 | ??? |
+| 173-Tweet-Train-5Fold-roBERTa noQA | 0.658314 | 0.618103 | 000 | ??? |
+| 174-Tweet-Train-5Fold-roBERTa noQA lbl smoothing02 | 0.660750 | 0.619471 | 000 | ??? |
+| 175-Tweet-Train-5Fold-roBERTa base no QA | 0.681384 | 0.618506 | 000 | ??? |
