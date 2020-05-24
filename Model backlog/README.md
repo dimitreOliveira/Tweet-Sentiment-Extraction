@@ -181,7 +181,17 @@
 | 169-Tweet-Train-5Fold-roBERTa balanced pretrain | 0.742935 | 0.706787 | 0.711 | ??? |
 | 170-Tweet-Train-5Fold-roBERTa base no QA sentiment head | 0.745585 | 0.689484 | 000 | ??? |
 | 171-Tweet-Train-5Fold-roBERTa base no QA sentiment head step | 0.732168 | 0.691242 | 0.695 | ??? |
-| 172 | 000 | 000 | 000 | ??? |
+| 172-Tweet-Train-5Fold-roBERTa base no QA sentiment head2 | 0.698831 | 0.674309 | 000 | ??? |
 | 173-Tweet-Train-5Fold-roBERTa noQA | 0.658314 | 0.618103 | 000 | ??? |
 | 174-Tweet-Train-5Fold-roBERTa noQA lbl smoothing02 | 0.660750 | 0.619471 | 000 | ??? |
 | 175-Tweet-Train-5Fold-roBERTa base no QA | 0.681384 | 0.618506 | 000 | ??? |
+| 176 | 000 | 000 | 000 | ??? |
+| 177-Tweet-Train-5Fold-roBERTa single pred | 0.643046 | 0.631736 | 000 | ??? |
+| 178-Tweet-Train-5Fold-roBERTa BiLSTM TD head | 0.729426 | 0.704603 | 000 | ??? |
+| 179-Tweet-Train-5Fold-roBERTa LSTM TD head | 0.731912 | 0.704254 | 0.706 | ??? |
+| 180-Tweet-Train-5Fold-roBERTa BiLSTM TD head 04dro | 0.732489 | 0.705208 | 0.704 | ??? |
+| 181-Tweet-Train-5Fold-roBERTa BiLSTM TD head lbl02 | 0.735264 | 0.706335 | 0.708 | ??? |
+| 182-Tweet-Train-5Fold-roBERTa CNN BiLSTM TD head | 0.735131 | 0.704615 | 000 | ??? |
+| 183-Tweet-Train-5Fold-roBERTa 113 sam_weight len64 | 0.745911 | 0.704897 | 0.709 | ??? |
+| 184-Tweet-Train-5Fold-roBERTa base no QA BiGRU | 0.734154 | 0.694102 | 000 | ??? |
+| 185-Tweet-Train-5Fold-roBERTa 113 seq_len64 | 0.740471 | 0.700863 | 0.706 | ??? |
