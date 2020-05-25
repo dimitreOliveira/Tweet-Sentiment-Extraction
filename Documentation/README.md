@@ -18,6 +18,8 @@
 - ### GitHub:
   - [Huggingface transformers](https://github.com/huggingface/transformers)
   - [Hggingface tokenizers](https://github.com/huggingface/tokenizers/tree/master/bindings/python)
+  - [Kashgari - production-level NLP framework](https://github.com/BrikerMan/Kashgari)
+  - [bert-as-service - Interesting FAQ about serbing BERT](https://github.com/hanxiao/bert-as-service#q-why-not-the-last-hidden-layer-why-second-to-last)
 
 - ### Papers:
   - [Frustratingly Easy Natural Question Answering](https://arxiv.org/pdf/1909.05286.pdf)
