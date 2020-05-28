@@ -185,7 +185,7 @@
 | 173-Tweet-Train-5Fold-roBERTa noQA | 0.658314 | 0.618103 | 000 | ??? |
 | 174-Tweet-Train-5Fold-roBERTa noQA lbl smoothing02 | 0.660750 | 0.619471 | 000 | ??? |
 | 175-Tweet-Train-5Fold-roBERTa base no QA | 0.681384 | 0.618506 | 000 | ??? |
-| 176 | 000 | 000 | 000 | ??? |
+| 176-Tweet-Train-5Fold-roBERTa BiLSTM dense head | 0.749294 | 0.703882 | 0.710 | ??? |
 | 177-Tweet-Train-5Fold-roBERTa single pred | 0.643046 | 0.631736 | 000 | ??? |
 | 178-Tweet-Train-5Fold-roBERTa BiLSTM TD head | 0.729426 | 0.704603 | 000 | ??? |
 | 179-Tweet-Train-5Fold-roBERTa LSTM TD head | 0.731912 | 0.704254 | 0.706 | ??? |
@@ -195,3 +195,19 @@
 | 183-Tweet-Train-5Fold-roBERTa 113 sam_weight len64 | 0.745911 | 0.704897 | 0.709 | ??? |
 | 184-Tweet-Train-5Fold-roBERTa base no QA BiGRU | 0.734154 | 0.694102 | 000 | ??? |
 | 185-Tweet-Train-5Fold-roBERTa 113 seq_len64 | 0.740471 | 0.700863 | 0.706 | ??? |
+| 186-Tweet-Train-5Fold-roBERTa 113 seq_len64 lbl02 | 0.754793 | 0.704994 | 0.707 | ??? |
+| 187-Tweet-Train-5Fold-roBERTa seq_len64 hidden 11 | 0.732782 | 0.705720 | 000 | ??? |
+| 188-Tweet-Train-5Fold-roBERTa seq_len64 hidden 08 | 0.736657 | 0.704568 | 000 | ??? |
+| 189-Tweet-Train-5Fold-roBERTa top public | 0.752028 | 0.702691 | 0.709 | ??? |
+| 190-Tweet-Train-5Fold-roBERTa subtract | 0.736706 | 0.704861 | 0.705 | ??? |
+| 191-Tweet-Train-5Fold-roBERTa average | 0.730423 | 0.702361 | 0.706 | ??? |
+| 192-Tweet-Train-5Fold-roBERTa subtract2 | 0.734657 | 0.705336 | 0.709 | ??? |
+| 193-Tweet-Train-5Fold-roBERTa average2 | 0.731477 | 0.706370 | 0.706 | ??? |
+| 194-Tweet-Train-5Fold-roBERTa custom loss | 0.738059 | 0.707295 | 0.708 | ??? |
+| 195-Tweet-Train-5Fold-roBERTa seq_len64 hidden 11 warmup | 0.750013 | 0.706194 | 0.709 | ??? |
+| 196-Tweet-Train-5Fold-roBERTa seq_len64 hidden 08 warmup | 0.757281 | 0.704768 | 0.708 | ??? |
+| 197-Tweet-Train-5Fold-roBERTa clean | 0.772706 | 0.723208 | 0.710 | ??? |
+| 198-Tweet-Train-5Fold-roBERTa cleaner | 0.763569 | 0.723412 | 0.714 | ??? |
+| 199-Tweet-Train-5Fold-roBERTa batch 128 | 0.762430 | 0.723863 | 0.711 | ??? |
+| 200-Tweet-Train-5Fold-roBERTa reference | 0.766115 | 0.725589 | 0.711 | ??? |
+| 201-Tweet-Train-5Fold-roBERTa reference2 | 0.747819 | 0.721755 | 0.710 | ??? |
