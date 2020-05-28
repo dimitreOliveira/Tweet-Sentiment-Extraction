@@ -20,9 +20,12 @@
   - [Hggingface tokenizers](https://github.com/huggingface/tokenizers/tree/master/bindings/python)
   - [Kashgari - production-level NLP framework](https://github.com/BrikerMan/Kashgari)
   - [bert-as-service - Interesting FAQ about serbing BERT](https://github.com/hanxiao/bert-as-service#q-why-not-the-last-hidden-layer-why-second-to-last)
+  - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://github.com/jasonwei20/eda_nlp)
 
 - ### Papers:
   - [Frustratingly Easy Natural Question Answering](https://arxiv.org/pdf/1909.05286.pdf)
+  - [EDA: Easy Data Augmentation Techniques for Boosting Performance on
+Text Classification Tasks](https://arxiv.org/pdf/1901.11196v2.pdf)
 
 - ### Videos:
   - [BERT for Kaggle Competitions | Yuanhae Wu | Kaggle Days](https://www.youtube.com/watch?v=jS79Y8I0DF4&t=9s)
