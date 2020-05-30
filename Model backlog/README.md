@@ -211,3 +211,12 @@
 | 199-Tweet-Train-5Fold-roBERTa batch 128 | 0.762430 | 0.723863 | 0.711 | ??? |
 | 200-Tweet-Train-5Fold-roBERTa reference | 0.766115 | 0.725589 | 0.711 | ??? |
 | 201-Tweet-Train-5Fold-roBERTa reference2 | 0.747819 | 0.721755 | 0.710 | ??? |
+| 202-Tweet-Train-5Fold-roBERTa label smooth01 | 0.762369 | 0.723491 | 0.710 | ??? |
+| 203-Tweet-Train-5Fold-roBERTa reference cleaner | 0.760590 | 0.720591 | 0.714 | ??? |
+| 204-Tweet-Train-5Fold-roBERTa 160 | 0.763995 | 0.720548 | 0.710 | ??? |
+| 205-Tweet-Train-5Fold-roBERTa 91 | 0.768056 | 0.722643 | 0.709 | ??? |
+| 206-Tweet-Train-5Fold-roBERTa spatial dropout | 0.759113 | 0.723198 | 0.709 | ??? |
+| 207-Tweet-Train-5Fold-roBERTa polar pretrain | 0.783628 | 0.722201 | 0.712 | ??? |
+| 208-Tweet-Train-5Fold-roBERTa polar fine-tune | 0.801826 | 0.721462 | 000 | ??? |
+| 209-Tweet-Train-5Fold-roBERTa polar train | 0.592592 | 0.544801 | 000 | ??? |
+| 210-Tweet-Train-5Fold-roBERTa polar pretrain longer | 0.780583 | 0.722432 | 000 | ??? |
