@@ -222,10 +222,10 @@
 | 210-Tweet-Train-5Fold-roBERTa polar pretrain longer | 0.780583 | 0.722432 | 0.710 | ??? |
 | 211-Tweet-Train-5Fold-roBERTa custom loss hidden11 | 0.762375 | 0.725135 | 0.710 | ??? |
 | 212-Tweet-Train-5Fold-roBERTa custom loss | 0.757340 | 0.725749 | 0.706 | ??? |
-| 213-Tweet-Train-5Fold-roBERTa sample_weight_x2 | 0.761448 | 0.724150 | 000 | ??? |
-| 214-Tweet-Train-5Fold-roBERTa sample_weight_x5 | 0.766376 | 0.723185 | 000 | ??? |
-| 215-Tweet-Train-5Fold-roBERTa sample_weight_x10 | 0.769963 | 0.724914 | 000 | ??? |
+| 213-Tweet-Train-5Fold-roBERTa sample_weight_x2 | 0.761448 | 0.724150 | 0.709 | ??? |
+| 214-Tweet-Train-5Fold-roBERTa sample_weight_x5 | 0.766376 | 0.723185 | 0.710 | ??? |
+| 215-Tweet-Train-5Fold-roBERTa sample_weight_x10 | 0.769963 | 0.724914 | 0.714 | ??? |
 | 216-Tweet-Train-5Fold-roBERTa double dense | 0.761275 | 0.722420 | 000 | ??? |
 | 217 | ??? | ??? | ??? | ??? |
-| 218-Tweet-Train-5Fold-roBERTa hidden_11 reference | 0.759171 | 0.723426 | 000 | ??? |
-| 219-Tweet-Train-5Fold-roBERTa mask and span | 0.763956 | 0.726043 | 000 | ??? |
+| 218-Tweet-Train-5Fold-roBERTa hidden_11 reference | 0.759171 | 0.723426 | 0.711 | ??? |
+| 219-Tweet-Train-5Fold-roBERTa mask and span | 0.763956 | 0.726043 | 0.713 | ??? |
