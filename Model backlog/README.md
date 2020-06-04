@@ -226,6 +226,28 @@
 | 214-Tweet-Train-5Fold-roBERTa sample_weight_x5 | 0.766376 | 0.723185 | 0.710 | ??? |
 | 215-Tweet-Train-5Fold-roBERTa sample_weight_x10 | 0.769963 | 0.724914 | 0.714 | ??? |
 | 216-Tweet-Train-5Fold-roBERTa double dense | 0.761275 | 0.722420 | 000 | ??? |
-| 217 | ??? | ??? | ??? | ??? |
+| 217-Tweet-Train-5Fold-roBERTa mask and span2 | 0.763933 | 0.724515 | ??? | ??? |
 | 218-Tweet-Train-5Fold-roBERTa hidden_11 reference | 0.759171 | 0.723426 | 0.711 | ??? |
 | 219-Tweet-Train-5Fold-roBERTa mask and span | 0.763956 | 0.726043 | 0.713 | ??? |
+| 220-Tweet-Train-5Fold-roBERTa mask and span3 | 0.753132 | 0.722623 | 0.710 | ??? |
+| 221 | 000 | 000 | 000 | ??? |
+| 222-Tweet-Train-5Fold-roBERTa split | 0.756152 | 0.723301 | 000 | ??? |
+| 223-Tweet-Train-5Fold-roBERTa word-level | 0.767455 | 0.715359 | 000 | ??? |
+| 224-Tweet-Train-5Fold-roBERTa mask and span cleanL | 0.750229 | 0.717892 | 0.694 | ??? |
+| 225-Tweet-Train-5Fold-roBERTa word-level2 | 0.765911 | 0.719197 | 0.697 | ??? |
+| 226-Tweet-Train-5Fold-BERT_base word-level2 | 0.749784 | 0.682228 | 000 | ??? |
+| 227-Tweet-Train-5Fold-BERT_large_squad word-level2 | 0.789670 | 0.704432 | 000 | ??? |
+| 228-Tweet-Train-5Fold-roBERTa reference HF | 0.758571 | 0.723612 | 0.716 | ??? |
+| 229-Tweet-Train-5Fold-roBERTa reference HF exp2 | 0.758997 | 0.723812 | 0.713 | ??? |
+| 230-Tweet-Train-5Fold-roBERTa reference HF exp3 | 0.761405 | 0.725496 | 0.711 | ??? |
+| 231-Tweet-Train-5Fold-roBERTa reference HF SpatialDropout | 0.766921 | 0.726637 | 000 | ??? |
+| 232-Tweet-Train-5Fold-roBERTa reference HF hidden11 | 0.766436 | 0.726896 | 000 | ??? |
+| 233-Tweet-Train-5Fold-roBERTa reference HF hidden11 | 0.757282 | 0.725199 | 000 | ??? |
+| 234-Tweet-Train-5Fold-roBERTa reference HF custom loss | 0.760507 | 0.726565 | 0.714 | ??? |
+| 235-Tweet-Train-5Fold-roBERTa ref HF clean lbl | 0.753422 | 0.723600 | 0.701 | ??? |
+| 236-Tweet-Train-5Fold-roBERTa reference HF no bias | 0.762103 | 0.726897 | 0.711 | ??? |
+| 237-Tweet-Train-5Fold-roBERTa HF ref label | 0.760864 | 0.722933 | 000 | ??? |
+| 238 | 000 | 000 | 000 | ??? |
+| 239-Tweet-Train-5Fold-roBERTa HF cosine wr | 0.759788 | 0.724841 | 0.716 | ??? |
+| 240 | 000 | 000 | 000 | ??? |
+| 241-Tweet-Train-5Fold-roBERTa_large reference HF | 0.761508 | 0.724407 | 000 | ??? |
