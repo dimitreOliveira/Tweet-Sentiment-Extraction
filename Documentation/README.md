@@ -57,6 +57,15 @@ Text Classification Tasks](https://arxiv.org/pdf/1901.11196v2.pdf)
     - Output head `Dense(1) -> Flatten -> Activation`
     - Epoch LR scheduler (cosine and exponential)
     - Label smoothing CCE (0.1 and 0.2)
+    - Removing sample with noise and with low jaccard between text and label
+    - Use Keras QA [reference model](https://huggingface.co/transformers/model_doc/bert.html#tfbertforquestionanswering)
+    - Use huggingface QA [reference model](https://keras.io/examples/nlp/text_extraction_with_bert/)
+    - Fine-tuune model with only positive%negative samples (exp. 208)
+    - Sample weight, 10 times more weight to positive%negative samples (exp. 215)
+    - Predict mask and QA span (exp. 219)
+    - Train longer using cosine with warm restart schedule (exp. 221)
+    - Use custom loss to punish wrong predictions (exp. 93)
+    - Use SWA wrapper on adam optimizer (exp. 238)
   
   - #### Neutral experiments
     - Output layers with BCE loss (exp. 54)
@@ -67,7 +76,6 @@ Text Classification Tasks](https://arxiv.org/pdf/1901.11196v2.pdf)
     - Subtract flatten layer (before activation) of the other output flatten layer (exp. 68)
     - Predict the sentiment (exp. 83)
     - Average flatten layer (before activation) with the other output flatten layer (exp. 90)
-    - Use custom loss to punish wrong predictions (exp. 93)
     - Use the 11th layer (exp. 107)
     
     
