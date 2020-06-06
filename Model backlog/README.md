@@ -230,7 +230,7 @@
 | 218-Tweet-Train-5Fold-roBERTa hidden_11 reference | 0.759171 | 0.723426 | 0.711 | ??? |
 | 219-Tweet-Train-5Fold-roBERTa mask and span | 0.763956 | 0.726043 | 0.713 | ??? |
 | 220-Tweet-Train-5Fold-roBERTa mask and span3 | 0.753132 | 0.722623 | 0.710 | ??? |
-| 221 | 000 | 000 | 000 | ??? |
+| 221-Tweet-Train-5Fold-roBERTa HF cosine wr long | 0.762254 | 0.724794 | 0.714 | ??? |
 | 222-Tweet-Train-5Fold-roBERTa split | 0.756152 | 0.723301 | 000 | ??? |
 | 223-Tweet-Train-5Fold-roBERTa word-level | 0.767455 | 0.715359 | 000 | ??? |
 | 224-Tweet-Train-5Fold-roBERTa mask and span cleanL | 0.750229 | 0.717892 | 0.694 | ??? |
@@ -247,7 +247,17 @@
 | 235-Tweet-Train-5Fold-roBERTa ref HF clean lbl | 0.753422 | 0.723600 | 0.701 | ??? |
 | 236-Tweet-Train-5Fold-roBERTa reference HF no bias | 0.762103 | 0.726897 | 0.711 | ??? |
 | 237-Tweet-Train-5Fold-roBERTa HF ref label | 0.760864 | 0.722933 | 000 | ??? |
-| 238 | 000 | 000 | 000 | ??? |
+| 238-Tweet-Train-5Fold-roBERTa HF SWA cosine wr long | 0.769773 | 0.727015 | 0.715 | ??? |
 | 239-Tweet-Train-5Fold-roBERTa HF cosine wr | 0.759788 | 0.724841 | 0.716 | ??? |
-| 240 | 000 | 000 | 000 | ??? |
+| 240-Tweet-Train-5Fold-roBERTa 96 HF ref label | 000 | 000 | 0.716 | ??? |
 | 241-Tweet-Train-5Fold-roBERTa_large reference HF | 0.761508 | 0.724407 | 000 | ??? |
+| 242-Tweet-Train-5Fold-roBERTa 92 ref HF | 0.748715 | 0.711352 | 0.716 | ??? |
+| 243-Tweet-Train-5Fold-roBERTa HF AdamW TF | 0.765577 | 0.725971 | 0.714 | ??? |
+| 244-Tweet-Train-5Fold-roBERTa HF OneCycle LR | 0.765828 | 0.726872 | 0.718 | ??? |
+| 245-Tweet-Train-5Fold-roBERTa HF OneCycle LR | 0.757211 | 0.723926 | 0.712 | ??? |
+| 246-Tweet-Train-5Fold-roBERTa HF OneCycle LR exp2 | 0.767726 | 0.727213 | 000 | ??? |
+| 247-Tweet-Train-5Fold-roBERTa HF OneCycle LR exp3 | 0.760594 | 0.722471 | 000 | ??? |
+| 248-Tweet-Train-5Fold-roBERTa OneCycle 03 lbl smoothing | 0.763896 | 0.726457 | 000 | ??? |
+| 249-Tweet-Train-5Fold-roBERTa OneCycle LR Hidden11 | 0.763594 | 0.726129 | 000 | ??? |
+| 250-Tweet-Train-5Fold-roBERTa OneCycle LR 025smoot | 0.763121 | 0.726307 | 000 | ??? |
+| 251-Tweet-Train-5Fold-roBERTa OneCycle cosine | 0.763432 | 0.727046 | 000 | ??? |
