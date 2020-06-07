@@ -255,9 +255,12 @@
 | 243-Tweet-Train-5Fold-roBERTa HF AdamW TF | 0.765577 | 0.725971 | 0.714 | ??? |
 | 244-Tweet-Train-5Fold-roBERTa HF OneCycle LR | 0.765828 | 0.726872 | 0.718 | ??? |
 | 245-Tweet-Train-5Fold-roBERTa HF OneCycle LR | 0.757211 | 0.723926 | 0.712 | ??? |
-| 246-Tweet-Train-5Fold-roBERTa HF OneCycle LR exp2 | 0.767726 | 0.727213 | 000 | ??? |
-| 247-Tweet-Train-5Fold-roBERTa HF OneCycle LR exp3 | 0.760594 | 0.722471 | 000 | ??? |
+| 246-Tweet-Train-5Fold-roBERTa HF OneCycle LR exp2 | 0.767726 | 0.727213 | 0.714 | ??? |
+| 247-Tweet-Train-5Fold-roBERTa HF OneCycle LR exp3 | 0.760594 | 0.722471 | 0.712 | ??? |
 | 248-Tweet-Train-5Fold-roBERTa OneCycle 03 lbl smoothing | 0.763896 | 0.726457 | 000 | ??? |
-| 249-Tweet-Train-5Fold-roBERTa OneCycle LR Hidden11 | 0.763594 | 0.726129 | 000 | ??? |
+| 249-Tweet-Train-5Fold-roBERTa OneCycle LR Hidden11 | 0.763594 | 0.726129 | 0.714 | ??? |
 | 250-Tweet-Train-5Fold-roBERTa OneCycle LR 025smoot | 0.763121 | 0.726307 | 000 | ??? |
-| 251-Tweet-Train-5Fold-roBERTa OneCycle cosine | 0.763432 | 0.727046 | 000 | ??? |
+| 251-Tweet-Train-5Fold-roBERTa OneCycle cosine | 0.763432 | 0.727046 | 0.714 | ??? |
+| 252-Tweet-Train-5Fold-roBERTa 96 OneCycle LR | 0.762492 | 0.726418 | 0.716 | ??? |
+| 253-Tweet-Train-5Fold-roBERTa 96 OneCycle LR dirty | 0.747433 | 0.709368 | 000 | ??? |
+| 254-Tweet-Train-5Fold-roBERTa 96 OneCycle LR PT | 000 | 000 | 000 | ??? |
