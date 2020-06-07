@@ -153,7 +153,7 @@
 | 141-Tweet-Train-3Fold-roBERTa base AVG 4 separeted heads2 | 0.742636 | 0.702812 | 0.710 | ??? |
 | 142-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads | 0.737619 | 0.703859 | 0.708 | ??? |
 | 143-Tweet-Train-3Fold-roBERTa base MAX 4 separeted heads2 | 0.741004 | 0.707042 | 0.708 | ??? |
-| 144-Tweet-Train-3Fold-roBERTa base sentiment head | 0.727972 | 0.694650 | 000 | ??? |
+| 144-Tweet-Train-3Fold-roBERTa base sentiment head | 0.727972 | 0.694650 | 0.708 | ??? |
 | 145-Tweet-Train-3Fold-roBERTa base sentiment head2 | 0.737839 | 0.708187 | 0.705 | ??? |
 | 146-Tweet-Train-1Fold-roBERTa base subtract | 0.741861 | 0.708988 | 0.704 | ??? |
 | 147-Tweet-Train-5Fold-roBERTa base Subtract RAdam | 0.726594 | 0.700326 | 0.706 | ??? |
@@ -175,7 +175,7 @@
 | 163-Tweet-Train-10Fold-roBERTa base 91 | 0.733822 | 0.705542 | 0.708 | ??? |
 | 164-Tweet-Train-5Fold-roBERTa base 91 exp1 | 0.739160 | 0.703982 | 0.710 | ??? |
 | 165-Tweet-Train-5Fold-roBERTa base 91 exp2 | 0.749831 | 0.704440 | 0.712 | ??? |
-| 166-Tweet-Train-5Fold-roBERTa base 91 exp3 | 0.740047 | 0.705059 | 0.706 | ??? |
+| 166-Tweet-Train-5Fold-roBERTa base 91 exp3 | 0.740047 | 0.705059 | 0.710 | ??? |
 | 167-Tweet-Train-5Fold-roBERTa balanced finetune | 0.725405 | 0.702960 | 0.705 | ??? |
 | 168-Tweet-Train-5Fold-roBERTa balanced finetune2 | 0.745230 | 0.707179 | 0.712 | ??? |
 | 169-Tweet-Train-5Fold-roBERTa balanced pretrain | 0.742935 | 0.706787 | 0.711 | ??? |
@@ -225,7 +225,7 @@
 | 213-Tweet-Train-5Fold-roBERTa sample_weight_x2 | 0.761448 | 0.724150 | 0.709 | ??? |
 | 214-Tweet-Train-5Fold-roBERTa sample_weight_x5 | 0.766376 | 0.723185 | 0.710 | ??? |
 | 215-Tweet-Train-5Fold-roBERTa sample_weight_x10 | 0.769963 | 0.724914 | 0.714 | ??? |
-| 216-Tweet-Train-5Fold-roBERTa double dense | 0.761275 | 0.722420 | 000 | ??? |
+| 216-Tweet-Train-5Fold-roBERTa double dense | 0.761275 | 0.722420 | 0.711 | ??? |
 | 217-Tweet-Train-5Fold-roBERTa mask and span2 | 0.763933 | 0.724515 | ??? | ??? |
 | 218-Tweet-Train-5Fold-roBERTa hidden_11 reference | 0.759171 | 0.723426 | 0.711 | ??? |
 | 219-Tweet-Train-5Fold-roBERTa mask and span | 0.763956 | 0.726043 | 0.713 | ??? |
