@@ -262,5 +262,13 @@
 | 250-Tweet-Train-5Fold-roBERTa OneCycle LR 025smoot | 0.763121 | 0.726307 | 000 | ??? |
 | 251-Tweet-Train-5Fold-roBERTa OneCycle cosine | 0.763432 | 0.727046 | 0.714 | ??? |
 | 252-Tweet-Train-5Fold-roBERTa 96 OneCycle LR | 0.762492 | 0.726418 | 0.716 | ??? |
-| 253-Tweet-Train-5Fold-roBERTa 96 OneCycle LR dirty | 0.747433 | 0.709368 | 000 | ??? |
-| 254-Tweet-Train-5Fold-roBERTa 96 OneCycle LR PT | 000 | 000 | 000 | ??? |
+| 253-Tweet-Train-5Fold-roBERTa 96 OneCycle LR dirty | 0.747433 | 0.709368 | 0.713 | ??? |
+| 254-Tweet-Train-5Fold-roBERTa 96 OneCycle LR PT | 000 | 000 | 0.712 | ??? |
+| 255-Tweet-Train-5Fold-roBERTa OneCycle hold | 0.764382 | 0.726586 | 000 | ??? |
+| 256-Tweet-Train-5Fold-roBERTa OneCycle BCE | 0.757981 | 0.727300 | 0.713 | ??? |
+| 257-Tweet-Train-5Fold-roBERTa OneCycle RAdam | 0.751558 | 0.723434 | 000 | ??? |
+| 258-Tweet-Train-5Fold-roBERTa OneCycle Custom loss | 0.758095 | 0.726239 | 0.716 | ??? |
+| 259-Tweet-Train-5Fold-roBERTa mask and span OneCycle | 0.767035 | 0.726512 | 000 | ??? |
+| 260-Tweet-Train-5Fold-roBERTa mask and span OneCycle2 | 0.766930 | 0.725839 | 000 | ??? |
+| 261-Tweet-Train-5Fold-roBERTa AVG last4 OneCycle | 0.773650 | 0.727990 | 000 | ??? |
+| 262-Tweet-Train-5Fold-roBERTa MAX last4 OneCycle | 0.771099 | 0.728136 | 000 | ??? |
