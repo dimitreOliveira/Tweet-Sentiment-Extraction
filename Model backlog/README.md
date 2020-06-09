@@ -259,16 +259,18 @@
 | 247-Tweet-Train-5Fold-roBERTa HF OneCycle LR exp3 | 0.760594 | 0.722471 | 0.712 | ??? |
 | 248-Tweet-Train-5Fold-roBERTa OneCycle 03 lbl smoothing | 0.763896 | 0.726457 | 000 | ??? |
 | 249-Tweet-Train-5Fold-roBERTa OneCycle LR Hidden11 | 0.763594 | 0.726129 | 0.714 | ??? |
-| 250-Tweet-Train-5Fold-roBERTa OneCycle LR 025smoot | 0.763121 | 0.726307 | 000 | ??? |
+| 250-Tweet-Train-5Fold-roBERTa OneCycle LR 025smoot | 0.763121 | 0.726307 | 0.716 | ??? |
 | 251-Tweet-Train-5Fold-roBERTa OneCycle cosine | 0.763432 | 0.727046 | 0.714 | ??? |
 | 252-Tweet-Train-5Fold-roBERTa 96 OneCycle LR | 0.762492 | 0.726418 | 0.716 | ??? |
 | 253-Tweet-Train-5Fold-roBERTa 96 OneCycle LR dirty | 0.747433 | 0.709368 | 0.713 | ??? |
 | 254-Tweet-Train-5Fold-roBERTa 96 OneCycle LR PT | 000 | 000 | 0.712 | ??? |
-| 255-Tweet-Train-5Fold-roBERTa OneCycle hold | 0.764382 | 0.726586 | 000 | ??? |
+| 255-Tweet-Train-5Fold-roBERTa OneCycle hold | 0.764382 | 0.726586 | 0.713 | ??? |
 | 256-Tweet-Train-5Fold-roBERTa OneCycle BCE | 0.757981 | 0.727300 | 0.713 | ??? |
 | 257-Tweet-Train-5Fold-roBERTa OneCycle RAdam | 0.751558 | 0.723434 | 000 | ??? |
 | 258-Tweet-Train-5Fold-roBERTa OneCycle Custom loss | 0.758095 | 0.726239 | 0.716 | ??? |
-| 259-Tweet-Train-5Fold-roBERTa mask and span OneCycle | 0.767035 | 0.726512 | 000 | ??? |
-| 260-Tweet-Train-5Fold-roBERTa mask and span OneCycle2 | 0.766930 | 0.725839 | 000 | ??? |
+| 259-Tweet-Train-5Fold-roBERTa mask and span OneCycle | 0.767035 | 0.726512 | 0.715 | ??? |
+| 260-Tweet-Train-5Fold-roBERTa mask and span OneCycle2 | 0.766930 | 0.725839 | 0.715 | ??? |
 | 261-Tweet-Train-5Fold-roBERTa AVG last4 OneCycle | 0.773650 | 0.727990 | 000 | ??? |
 | 262-Tweet-Train-5Fold-roBERTa MAX last4 OneCycle | 0.771099 | 0.728136 | 000 | ??? |
+| 263 | 000 | 000 | 0.713 | ??? |
+| 264 | 000 | 000 | 0.713 | ??? |
