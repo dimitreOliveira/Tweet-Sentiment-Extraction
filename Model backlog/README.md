@@ -277,3 +277,8 @@
 | 265-Tweet-Train-5Fold-roBERTa subtract residual | 0.764019 | 0.726339 | 000 | ??? |
 | 266-Tweet-Train-5Fold-roBERTa subtract residual2 | 0.767326 | 0.725516 | 000 | ??? |
 | 267-Tweet-Train-5Fold-roBERTa mask and custom loss one cycle | 0.763638 | 0.726076 | 0.713 | ??? |
+| 268-Tweet-Train-5Fold-roBERTa mask and custom loss cosine wr | 0.768143 | 0.726186 | 000 | ??? |
+| 269-Tweet-Train-5Fold-roBERTa Jaccard | 0.766834 | 0.726114 | 000 | ??? |
+| 270-Tweet-Train-5Fold-roBERTa Jaccard cosine wr | 0.766603 | 0.726172 | 000 | ??? |
+| 271-Tweet-Train-5Fold-roBERTa token count | 0.754890 | 0.723502 | 0.715 | ??? |
+| 272-Tweet-Train-5Fold-roBERTa mask jac token cosine wr | 0.769455 | 0.726670 | 0.715 | ??? |
