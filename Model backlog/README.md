@@ -282,3 +282,18 @@
 | 270-Tweet-Train-5Fold-roBERTa Jaccard cosine wr | 0.766603 | 0.726172 | 000 | ??? |
 | 271-Tweet-Train-5Fold-roBERTa token count | 0.754890 | 0.723502 | 0.715 | ??? |
 | 272-Tweet-Train-5Fold-roBERTa mask jac token cosine wr | 0.769455 | 0.726670 | 0.715 | ??? |
+| 273-Tweet-Train-5Fold-roBERTa mask jac token oneclycle | 0.744883 | 0.715413 | 000 | ??? |
+| 274-Tweet-Train-5Fold-roBERTa mask jac token cosine wr | 0.774347 | 0.726699 | 000 | ??? |
+| 275-Tweet-Train-5Fold-roBERTa AVG last4 OneCy exp2 | 0.768859 | 0.726668 | 000 | ??? |
+| 276-Tweet-Train-5Fold-roBERTa AVG last4 OneCy exp3 | 0.771440 | 0.724640 | 000 | ??? |
+| 277-Tweet-Train-5Fold-roBERTa OneCycle Custom exp2 | 0.759392 | 0.723851 | 000 | ??? |
+| 278-Tweet-Train-5Fold-roBERTa OneCycle Custom exp3 | 0.765024 | 0.727252 | 000 | ??? |
+| 279-Tweet-Train-5Fold-roBERTa AVG last4 custom los | 0.764935 | 0.726904 | 000 | ??? |
+| 280-Tweet-Train-5Fold-roBERTa OneCycle clean jac | 0.747617 | 0.710255 | 0.710 | ??? |
+| 281-Tweet-Train-7Fold-roBERTa OneCycle | 0.765007 | 0.726303 | 0.717 | ??? |
+| 282-Tweet-Train-10Fold-roBERTa OneCycle | 0.719805 | 0.683172 | 0.717 | ??? |
+| 283-Tweet-Train-5Fold-roBERTa OneCycle label2 | 0.748561 | 0.713372 | 0.696 | ??? |
+| 284 | 000 | 000 | 000 | ??? |
+| 285-Tweet-Train-5Fold-roBERTa Adam L1 reg | 0.758242 | 0.725879 | 000 | ??? |
+| 286 | 000 | 000 | 000 | ??? |
+| 287-Tweet-Train-5Fold-roBERTa Adam L1 reg cosineWR | 0.765440 | 0.725476 | 000 | ??? |
