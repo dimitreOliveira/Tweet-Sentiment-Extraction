@@ -14,6 +14,9 @@
   - [Question Answering with a Fine-Tuned BERT](http://mccormickml.com/2020/03/10/question-answering-with-a-fine-tuned-BERT/)
   - [BERT for Question Answering on SQuAD 2.0](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/default/15848021.pdf)
   - [A Bert based summarization model “BertSum”](https://medium.com/lsc-psd/a-bert-based-summarization-model-bertsum-88b1fc1b3177)
+  - [Self Supervised Representation Learning in NLP](https://amitness.com/2020/05/self-supervised-learning-nlp/)
+  - [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
+  - [BERT Word Embeddings Tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
 
 - ### GitHub:
   - [Huggingface transformers](https://github.com/huggingface/transformers)
@@ -26,6 +29,8 @@
   - [Frustratingly Easy Natural Question Answering](https://arxiv.org/pdf/1909.05286.pdf)
   - [EDA: Easy Data Augmentation Techniques for Boosting Performance on
 Text Classification Tasks](https://arxiv.org/pdf/1901.11196v2.pdf)
+  - [BERT for Question Answering on SQuAD 2.0](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/default/15848021.pdf)
+  - [Ensemble BERT with Data Augmentation and Linguistic Knowledge on SQuAD 2.0](https://web.stanford.edu/class/cs224n/posters/15845024.pdf)
 
 - ### Videos:
   - [BERT for Kaggle Competitions | Yuanhae Wu | Kaggle Days](https://www.youtube.com/watch?v=jS79Y8I0DF4&t=9s)
@@ -39,6 +44,8 @@ Text Classification Tasks](https://arxiv.org/pdf/1901.11196v2.pdf)
   - [Ideas Which Should Improve Scores Hopefully](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/142011)
   - [TensorFlow roBERTa Explained](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/143281)
   - [Original dataset](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/145363)
+  - [Finetuning RoBERTa from the original Paper](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/151684)
+  - [Ideas from BERT paper](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/151522)
  
 - ### Insights:
   - #### Positive Insights
