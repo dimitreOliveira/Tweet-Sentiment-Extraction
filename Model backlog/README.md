@@ -293,7 +293,5 @@
 | 281-Tweet-Train-7Fold-roBERTa OneCycle | 0.765007 | 0.726303 | 0.717 | ??? |
 | 282-Tweet-Train-10Fold-roBERTa OneCycle | 0.719805 | 0.683172 | 0.717 | ??? |
 | 283-Tweet-Train-5Fold-roBERTa OneCycle label2 | 0.748561 | 0.713372 | 0.696 | ??? |
-| 284 | 000 | 000 | 000 | ??? |
+| 244-Tweet-Train-5Fold-roBERTa Adam L1 reg cosineWR | 0.765440 | 0.725476 | 000 | ??? |
 | 285-Tweet-Train-5Fold-roBERTa Adam L1 reg | 0.758242 | 0.725879 | 000 | ??? |
-| 286 | 000 | 000 | 000 | ??? |
-| 287-Tweet-Train-5Fold-roBERTa Adam L1 reg cosineWR | 0.765440 | 0.725476 | 000 | ??? |
