@@ -4,6 +4,7 @@
 This repository goal is to host my set of experiments done during the Tweet Sentiment Extraction Kaggle competition, the tasks were basically extracted from a tweet the span of words that better represent the complete tweet, this could be solved by different solutions, but what mostly worked for the community and me, was to frame it as a QA problem (question answering), where the system has a context and a question then outputs the answer, in this case, the question was the tweet sentiment, and the context was the tweet, probably this was just a fancy way of embedding the sentiment on the tweet itself through many context transformer layers.
 
 ### Published Kaggle kernels:
+  - [Tweet Sentiment Extraction - EDA and baseline](https://www.kaggle.com/dimitreoliveira/tweet-sentiment-extraction-eda-and-baseline/notebook)
 
 ### What you will find
 - Datasets [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Datasets)
