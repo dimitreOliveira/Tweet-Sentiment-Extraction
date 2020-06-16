@@ -38,7 +38,8 @@ Text Classification Tasks](https://arxiv.org/pdf/1901.11196v2.pdf)
   - [Solving NLP Problems with BERT | Yuanhao Wu | Kaggle](https://www.youtube.com/watch?v=rQQAIJIf60s)
 
 - ### Kernels:
-  - [kernel 1]()
+  - [TensorFlow roBERTa - [0.705]](https://www.kaggle.com/cdeotte/tensorflow-roberta-0-705)
+  - [Bert-base with TF2.1 mixed-precision](https://www.kaggle.com/akensert/tweet-bert-base-with-tf2-1-mixed-precision)
 
 - ### Discussions:
   - [Ideas Which Should Improve Scores Hopefully](https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/142011)
