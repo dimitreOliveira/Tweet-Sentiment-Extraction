@@ -293,5 +293,10 @@
 | 281-Tweet-Train-7Fold-roBERTa OneCycle | 0.765007 | 0.726303 | 0.717 | ??? |
 | 282-Tweet-Train-10Fold-roBERTa OneCycle | 0.719805 | 0.683172 | 0.717 | ??? |
 | 283-Tweet-Train-5Fold-roBERTa OneCycle label2 | 0.748561 | 0.713372 | 0.696 | ??? |
-| 244-Tweet-Train-5Fold-roBERTa Adam L1 reg cosineWR | 0.765440 | 0.725476 | 000 | ??? |
-| 285-Tweet-Train-5Fold-roBERTa Adam L1 reg | 0.758242 | 0.725879 | 000 | ??? |
+| 284-Tweet-Train-5Fold-roBERTa Adam L1 reg cosineWR | 0.765440 | 0.725476 | 000 | ??? |
+| 285-Tweet-Train-5Fold-roBERTa Adam L1 reg | 0.758242 | 0.725879 | 0.714 | ??? |
+| 286-Tweet-Train-5Fold-roBERTa 96 OneCycle LR exp2 | 0.761888 | 0.725264 | 0.715 | ??? |
+| 287-Tweet-Train-5Fold-roBERTa 96 OneCycle LR exp3 | 0.766480 | 0.726240 | 000 | ??? |
+| 288-Tweet-Train-5Fold-roBERTa 96 OneCycle beta1 | 0.765305 | 0.724924 | 000 | ??? |
+| 289-Tweet-Train-7Fold-roBERTa 96 OneCycle LR | 0.764648 | 0.727013 | 0.714 | ??? |
+| 290-Tweet-Train-10Fold-roBERTa 96 OneCycle LR | 0.764426 | 0.727047 | 0.713 | ??? |
