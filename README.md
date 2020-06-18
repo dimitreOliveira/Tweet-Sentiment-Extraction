@@ -10,10 +10,10 @@ This repository goal is to host my set of experiments done during the Tweet Sent
 - Best solution (Silver medal - 60th place) [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Best%20solution%20(Silver%20medal%20-%2060th%20place))
 - Datasets [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Datasets)
 - Documentation [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Documentation)
+- Models [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Model%20backlog)
   - Evaluation [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Model%20backlog/Evaluation)
   - Inference [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Model%20backlog/Inference)
   - Train [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Model%20backlog/Train)
-- Models [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Model%20backlog)
 - Scripts [[link]](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction/tree/master/Scripts)
 
 ### Tweet Sentiment Extraction
